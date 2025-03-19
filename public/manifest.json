@@ -30,5 +30,5 @@
 
   "permissions": ["storage", "downloads"],
 
-  "host_permissions": ["<all_urls>"]
+  "host_permissions": ["https://www.instagram.com/*", "https://x.com/*"]
 }
