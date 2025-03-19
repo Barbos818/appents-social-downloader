@@ -28,7 +28,5 @@
     "service_worker": "js/background.js"
   },
 
-  "permissions": ["storage", "downloads"],
-
-  "host_permissions": ["https://www.instagram.com/*", "https://x.com/*"]
+  "permissions": ["storage", "downloads"]
 }
